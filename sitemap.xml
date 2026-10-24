@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://guillaume.guvalapps.com</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com" />
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com" />
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/home</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/home" />
@@ -43,7 +43,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/accueil</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/home" />
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/about</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/about" />
@@ -69,7 +69,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/a-propos</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/about" />
@@ -82,7 +82,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/settings</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/settings" />
@@ -95,7 +95,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/reglages</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/settings" />
@@ -108,7 +108,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/time</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/time" />
@@ -121,7 +121,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/horloge</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/time" />
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/resume</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/resume" />
@@ -147,7 +147,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/cv</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/resume" />
@@ -160,7 +160,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/education</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/education" />
@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/formation</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/education" />
@@ -186,7 +186,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/experience</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/experience" />
@@ -199,7 +199,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/experiences</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/experience" />
@@ -212,7 +212,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/skills</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/skills" />
@@ -225,7 +225,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/competences</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/skills" />
@@ -238,7 +238,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/browser</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/browser" />
@@ -251,7 +251,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/navigateur</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/browser" />
@@ -264,7 +264,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/email</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/email" />
@@ -277,7 +277,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/email</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/email" />
@@ -290,7 +290,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/phone</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/phone" />
@@ -303,7 +303,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/telephone</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/phone" />
@@ -316,7 +316,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/message</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/message" />
@@ -329,7 +329,7 @@
   </url>
   <url>
     <loc>https://guillaume.guvalapps.com/fr/sms</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://guillaume.guvalapps.com/message" />
